@@ -1,0 +1,14 @@
+{
+  "name": "phy-web-beacons",
+  "version": "1.0.0",
+  "description": "test for using physical web beacons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diwaker singh",
+  "license": "ISC",
+  "dependencies": {
+    "eddystone-beacon": "^1.0.6"
+  }
+}
